@@ -1,0 +1,4 @@
+﻿  GUIDemo.cpp
+D:\Documents\Code\00_Cpp\C语言中文网\GUIDemo\GUIDemo\GUIDemo.cpp(126,9): warning C4101: “hdc”: 未引用的局部变量
+D:\Documents\Code\00_Cpp\C语言中文网\GUIDemo\GUIDemo\GUIDemo.cpp(127,17): warning C4101: “ps”: 未引用的局部变量
+  GUIDemo.vcxproj -> D:\Documents\Code\00_Cpp\C语言中文网\GUIDemo\Debug\GUIDemo.exe
